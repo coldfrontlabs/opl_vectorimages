@@ -1,7 +1,7 @@
 <svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 300 150">
   <defs>
     <style>
-      .cls-1 {
+      .cls-1, .cls-26 {
         fill: none;
       }
 
@@ -97,9 +97,21 @@
       .cls-24 {
         fill: #aed9d8;
       }
+
+      .cls-25 {
+        clip-path: url(#clip-path-2);
+      }
+
+      .cls-26 {
+        stroke: #0090cf;
+        stroke-miterlimit: 10;
+      }
     </style>
     <clipPath id="clip-path">
       <rect class="cls-1" x="-0.12" y="130.15" width="300.12" height="20.18"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect class="cls-1" x="-1309.88" y="947.91" width="300" height="150"/>
     </clipPath>
   </defs>
   <title>Imagine Space</title>
@@ -210,6 +222,14 @@
         <path id="_Path_13" data-name="&lt;Path&gt;" class="cls-23" d="M96.29,107.73l-5.36,17.88H87.35L82,107.73,87.35,97h3.58Z"/>
         <path id="_Path_14" data-name="&lt;Path&gt;" class="cls-24" d="M96.29,107.73H82L87.35,97h3.58Z"/>
       </g>
+    </g>
+  </g>
+  <g class="cls-25">
+    <g>
+      <g class="cls-25">
+        <path class="cls-26" d="M0,74.5c15,0,15,1,30,1s15-1,30-1,15,1,30,1,15-1,30-1,15,1,30,1,15-1,30-1,15,1,30,1,15-1,30-1,15,1,30,1,15-1,30-1"/>
+      </g>
+      <path class="cls-26" d="M0,74.5c15,0,15,1,30,1s15-1,30-1,15,1,30,1,15-1,30-1,15,1,30,1,15-1,30-1,15,1,30,1,15-1,30-1,15,1,30,1,15-1,30-1"/>
     </g>
   </g>
 </svg>

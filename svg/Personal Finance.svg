@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 300 150">
   <defs>
     <style>
-      .cls-1 {
+      .cls-1, .cls-72 {
         fill: none;
       }
 
@@ -285,9 +285,21 @@
       .cls-70 {
         fill: #a7d597;
       }
+
+      .cls-71 {
+        clip-path: url(#clip-path-3);
+      }
+
+      .cls-72 {
+        stroke: #0090cf;
+        stroke-miterlimit: 10;
+      }
     </style>
     <clipPath id="clip-path">
       <rect class="cls-1" width="300" height="150"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <rect class="cls-1" x="425.14" width="300" height="150"/>
     </clipPath>
   </defs>
   <title>Personal Finance</title>
@@ -3130,6 +3142,14 @@
               </g>
             </g>
           </g>
+        </g>
+      </g>
+      <g class="cls-71">
+        <g>
+          <g class="cls-71">
+            <path class="cls-72" d="M0,74.5c15,0,15,1,30,1s15-1,30-1,15,1,30,1,15-1,30-1,15,1,30,1,15-1,30-1,15,1,30,1,15-1,30-1,15,1,30,1,15-1,30-1"/>
+          </g>
+          <path class="cls-72" d="M0,74.5c15,0,15,1,30,1s15-1,30-1,15,1,30,1,15-1,30-1,15,1,30,1,15-1,30-1,15,1,30,1,15-1,30-1,15,1,30,1,15-1,30-1"/>
         </g>
       </g>
     </g>

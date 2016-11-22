@@ -1,7 +1,7 @@
 <svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 300 150">
   <defs>
     <style>
-      .cls-1 {
+      .cls-1, .cls-21 {
         fill: none;
       }
 
@@ -76,6 +76,15 @@
       .cls-19 {
         fill: url(#linear-gradient-10);
       }
+
+      .cls-20 {
+        clip-path: url(#clip-path-3);
+      }
+
+      .cls-21 {
+        stroke: #0090cf;
+        stroke-miterlimit: 10;
+      }
     </style>
     <clipPath id="clip-path">
       <rect class="cls-1" width="300" height="150"/>
@@ -96,6 +105,9 @@
     <linearGradient id="linear-gradient-8" x1="195.94" y1="27.1" x2="195.94" y2="63.98" xlink:href="#linear-gradient"/>
     <linearGradient id="linear-gradient-9" x1="234.25" y1="26.29" x2="234.25" y2="60.96" xlink:href="#linear-gradient"/>
     <linearGradient id="linear-gradient-10" x1="207.94" y1="87.15" x2="207.94" y2="142" xlink:href="#linear-gradient"/>
+    <clipPath id="clip-path-3">
+      <rect class="cls-1" x="-371.26" y="645.83" width="300" height="150"/>
+    </clipPath>
   </defs>
   <title>Travel</title>
   <g class="cls-2">
@@ -138,6 +150,14 @@
           <path class="cls-19" d="M235.23,110.43c-.29,0-.58,0-.86,0v0a11.42,11.42,0,0,0-13.11-11.29,15.37,15.37,0,0,0-28.79-3.39,11.43,11.43,0,0,0-15.14,8.6A15.37,15.37,0,0,0,187.43,133a11.42,11.42,0,0,0,11.89,3.4,11.42,11.42,0,0,0,20.27-1.2,11.42,11.42,0,0,0,11.37-2.77,11.42,11.42,0,1,0,4.28-22Z"/>
         </g>
       </g>
+    </g>
+  </g>
+  <g class="cls-20">
+    <g>
+      <g class="cls-20">
+        <path class="cls-21" d="M0,74.5c15,0,15,1,30,1s15-1,30-1,15,1,30,1,15-1,30-1,15,1,30,1,15-1,30-1,15,1,30,1,15-1,30-1,15,1,30,1,15-1,30-1"/>
+      </g>
+      <path class="cls-21" d="M0,74.5c15,0,15,1,30,1s15-1,30-1,15,1,30,1,15-1,30-1,15,1,30,1,15-1,30-1,15,1,30,1,15-1,30-1,15,1,30,1,15-1,30-1"/>
     </g>
   </g>
 </svg>

@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 300 150">
   <defs>
     <style>
-      .cls-1 {
+      .cls-1, .cls-22 {
         fill: none;
       }
 
@@ -80,9 +80,21 @@
       .cls-20 {
         fill: #f2f2f2;
       }
+
+      .cls-21 {
+        clip-path: url(#clip-path-2);
+      }
+
+      .cls-22 {
+        stroke: #0090cf;
+        stroke-miterlimit: 10;
+      }
     </style>
     <clipPath id="clip-path">
       <rect class="cls-1" width="300" height="150"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect class="cls-1" x="-899.77" y="942.64" width="300" height="150"/>
     </clipPath>
   </defs>
   <title>Health and Wellness</title>
@@ -230,6 +242,14 @@
               <path class="cls-19" d="M181.52,91.27l-.11.11-.09.1-.1.11-.08.1-.09.11-.07.09-.07.1-.07.1-.1.14-.05.08,0,.07,0,.07,0,0h0l.12-.07.1-.07.1-.07.09-.08.09-.08.07-.09.07-.09.06-.1.05-.09.05-.11,0-.09,0-.13,0-.07v-.06Z"/>
             </g>
           </g>
+        </g>
+      </g>
+      <g class="cls-21">
+        <g>
+          <g class="cls-21">
+            <path class="cls-22" d="M0,74.5c15,0,15,1,30,1s15-1,30-1,15,1,30,1,15-1,30-1,15,1,30,1,15-1,30-1,15,1,30,1,15-1,30-1,15,1,30,1,15-1,30-1"/>
+          </g>
+          <path class="cls-22" d="M0,74.5c15,0,15,1,30,1s15-1,30-1,15,1,30,1,15-1,30-1,15,1,30,1,15-1,30-1,15,1,30,1,15-1,30-1,15,1,30,1,15-1,30-1"/>
         </g>
       </g>
     </g>

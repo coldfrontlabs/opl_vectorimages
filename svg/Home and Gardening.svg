@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 300 150">
   <defs>
     <style>
-      .cls-1 {
+      .cls-1, .cls-39 {
         fill: none;
       }
 
@@ -155,12 +155,24 @@
       .cls-37 {
         fill: #cc4832;
       }
+
+      .cls-38 {
+        clip-path: url(#clip-path-3);
+      }
+
+      .cls-39 {
+        stroke: #0090cf;
+        stroke-miterlimit: 10;
+      }
     </style>
     <clipPath id="clip-path">
       <rect class="cls-1" x="-0.25" width="300.25" height="150"/>
     </clipPath>
     <clipPath id="clip-path-2">
       <polygon class="cls-1" points="300 154.49 -0.25 150 -0.25 0 300 0 300 154.49"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <rect class="cls-1" x="-381.74" y="330.44" width="300" height="150"/>
     </clipPath>
   </defs>
   <title>Home and Gardening</title>
@@ -330,6 +342,14 @@
             <path class="cls-37" d="M211.85,112.65s3.7-.44,4.33,3.86h-.47A3.92,3.92,0,0,0,211.85,112.65Z"/>
             <path class="cls-37" d="M203.49,119.57l0-.52h-3.3a1.69,1.69,0,0,0-1.69,1.66v0s-.14-1.14,1.19-1.19Z"/>
           </g>
+        </g>
+      </g>
+      <g class="cls-38">
+        <g>
+          <g class="cls-38">
+            <path class="cls-39" d="M0,74.5c15,0,15,1,30,1s15-1,30-1,15,1,30,1,15-1,30-1,15,1,30,1,15-1,30-1,15,1,30,1,15-1,30-1,15,1,30,1,15-1,30-1"/>
+          </g>
+          <path class="cls-39" d="M0,74.5c15,0,15,1,30,1s15-1,30-1,15,1,30,1,15-1,30-1,15,1,30,1,15-1,30-1,15,1,30,1,15-1,30-1,15,1,30,1,15-1,30-1"/>
         </g>
       </g>
     </g>

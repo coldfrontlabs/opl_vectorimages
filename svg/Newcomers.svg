@@ -1,7 +1,7 @@
 <svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 300 150">
   <defs>
     <style>
-      .cls-1, .cls-8 {
+      .cls-1, .cls-11, .cls-8 {
         fill: none;
       }
 
@@ -31,16 +31,30 @@
 
       .cls-8 {
         stroke: #000;
-        stroke-miterlimit: 10;
         stroke-width: 0.25px;
+      }
+
+      .cls-11, .cls-8 {
+        stroke-miterlimit: 10;
       }
 
       .cls-9 {
         fill: #4ea1c2;
       }
+
+      .cls-10 {
+        clip-path: url(#clip-path-3);
+      }
+
+      .cls-11 {
+        stroke: #0090cf;
+      }
     </style>
     <clipPath id="clip-path">
       <rect class="cls-1" width="300" height="150"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <rect class="cls-1" x="-1355.94" y="355.44" width="300" height="150"/>
     </clipPath>
   </defs>
   <title>Newcomers</title>
@@ -74,6 +88,14 @@
         </g>
       </g>
       <path class="cls-4" d="M67.44,9.71V154.49h-8V9.71a4,4,0,0,1,8,0Z"/>
+    </g>
+  </g>
+  <g class="cls-10">
+    <g>
+      <g class="cls-10">
+        <path class="cls-11" d="M0,74.5c15,0,15,1,30,1s15-1,30-1,15,1,30,1,15-1,30-1,15,1,30,1,15-1,30-1,15,1,30,1,15-1,30-1,15,1,30,1,15-1,30-1"/>
+      </g>
+      <path class="cls-11" d="M0,74.5c15,0,15,1,30,1s15-1,30-1,15,1,30,1,15-1,30-1,15,1,30,1,15-1,30-1,15,1,30,1,15-1,30-1,15,1,30,1,15-1,30-1"/>
     </g>
   </g>
 </svg>

@@ -1,7 +1,7 @@
 <svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 300 150">
   <defs>
     <style>
-      .cls-1 {
+      .cls-1, .cls-22 {
         fill: none;
       }
 
@@ -80,6 +80,15 @@
       .cls-20 {
         fill: #503e62;
       }
+
+      .cls-21 {
+        clip-path: url(#clip-path-2);
+      }
+
+      .cls-22 {
+        stroke: #0090cf;
+        stroke-miterlimit: 10;
+      }
     </style>
     <clipPath id="clip-path">
       <ellipse id="_Clipping_Path_" data-name="&lt;Clipping Path&gt;" class="cls-1" cx="148.47" cy="76.57" rx="69.6" ry="69.88"/>
@@ -88,6 +97,9 @@
       <stop offset="0.18" stop-color="#cc2027"/>
       <stop offset="0.61" stop-color="#cc2027"/>
     </radialGradient>
+    <clipPath id="clip-path-2">
+      <rect class="cls-1" x="-467.35" y="-12.77" width="300" height="150"/>
+    </clipPath>
   </defs>
   <title>Social Service</title>
   <g>
@@ -154,5 +166,12 @@
       </g>
     </g>
   </g>
-  <rect class="cls-1" x="32.75" y="-4.37" width="234.5" height="158.37"/>
+  <g class="cls-21">
+    <g>
+      <g class="cls-21">
+        <path class="cls-22" d="M0,74.5c15,0,15,1,30,1s15-1,30-1,15,1,30,1,15-1,30-1,15,1,30,1,15-1,30-1,15,1,30,1,15-1,30-1,15,1,30,1,15-1,30-1"/>
+      </g>
+      <path class="cls-22" d="M0,74.5c15,0,15,1,30,1s15-1,30-1,15,1,30,1,15-1,30-1,15,1,30,1,15-1,30-1,15,1,30,1,15-1,30-1,15,1,30,1,15-1,30-1"/>
+    </g>
+  </g>
 </svg>
